@@ -20,8 +20,8 @@ else:
         else:
             s2=s2+'1'
 x1=len(s2)-1
-if(int(ss2[x1])==0):
+if(int(s2[x1])==0):
     print('-1')
 elif a1==1 and b1==2: print("011")
 else:
-    print(ss2)
+    print(s2)
